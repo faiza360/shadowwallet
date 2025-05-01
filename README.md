@@ -1,4 +1,4 @@
-# ** 🕶️ ShadowWallet – Advanced Cryptographic Analysis Suite**  
+# **🕶️ ShadowWallet – Advanced Cryptographic Analysis Suite**  
 
 ## 🔥 **Core Features**  
 **1. Private Key Bruteforce Module**  
